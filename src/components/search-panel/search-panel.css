@@ -1,0 +1,33 @@
+.input-search {
+    width: 250px;
+    height: 30px;
+    border-color: greenyellow;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.input-search::placeholder{
+    color: white;
+    opacity: 0.4;
+}
+
+.input-search:focus {
+  border-color: #bdbdbd;
+  outline: 0;
+ 
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.flex-items {
+    margin: auto;
+    text-align: center;
+}
+
+.flex-items h3 {
+    margin-top: -10px;
+    font-family: 'Playfair Display', serif;
+}

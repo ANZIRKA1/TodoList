@@ -1,0 +1,14 @@
+.app-class {
+    width: 500px;
+    height: 450px;
+    position: relative;
+    margin: auto;
+    top: 100px;  
+}
+
+.app-center {
+    position: relative;
+    top: 25px;
+    margin: auto;
+    width: 300px;
+}

@@ -1,0 +1,30 @@
+.header-class {
+  text-align: center;
+}
+
+h1{
+  color: greenyellow;  
+  letter-spacing: 1px;
+  font-family: 'Playfair Display', serif; 
+}
+
+h3 {
+  color: white;
+  margin-bottom: 22px;
+}
+
+button{
+  margin-left: 5px;
+  width: 35px;
+  height: 25px;
+  border-radius: 5px;
+  border-color: greenyellow;
+  border-style: solid;
+  color: white;
+  font-size: 15px;
+}
+
+button:active {
+  border-color: #bdbdbd;
+  outline: 0;
+}

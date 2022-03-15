@@ -1,0 +1,22 @@
+.button-style {
+   display: flex;
+}
+
+button{
+   position: relative;
+   top: 18px;
+   margin-left: 10px;
+   padding-right: 5px;
+   width: 55px;
+   height: 25px;
+   border-radius: 5px;
+   border-color: greenyellow;
+   border-style: solid;
+   color: white;
+   font-size: 15px;
+ }
+ 
+ button:active {
+   border-color: #bdbdbd;
+   outline: 0;
+ }
